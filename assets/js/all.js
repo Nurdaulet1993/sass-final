@@ -1,0 +1,1 @@
+"use strict";console.log(4+6),$(document).ready(function(){$(".owl-carousel").owlCarousel()});
